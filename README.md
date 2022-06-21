@@ -1,1 +1,1 @@
-# Education
+# Learning JS

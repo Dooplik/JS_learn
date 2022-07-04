@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87dea2a1-b491-4264-aa26-20d16fedd7b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08_DOM-Tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_06_2022_22_19_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/05_Arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Asynchrony.js" beforeDir="false" afterPath="$PROJECT_DIR$/07_Asynchrony.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_Functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_Numbers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/06_Objects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_Strings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_baseComponents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +59,8 @@
       <updated>1655799466414</updated>
       <workItem from="1655799471264" duration="17488000" />
       <workItem from="1655998267293" duration="6451000" />
-      <workItem from="1656078369746" duration="5444000" />
+      <workItem from="1656078369746" duration="5718000" />
+      <workItem from="1656786970251" duration="55000" />
     </task>
     <servers />
   </component>
